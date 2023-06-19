@@ -346,6 +346,9 @@ img{
   .space{
     height: 5rem;
   }
+  .navmobilebody, #navmobile{
+    display: block;
+  }
   .navbody{
     display: none;
   }
