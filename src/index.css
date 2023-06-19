@@ -495,6 +495,7 @@ img{
   }
   .leftside{
     margin-top: 6rem;
+    margin-left: 0rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .name{
@@ -552,8 +553,8 @@ img{
     border: 1px solid  black;
   }
   .myphoto{
-    width: 18rem;
-    height: 18rem;
+    width: 17rem;
+    height: 17rem;
     border-radius: 10%;
     box-shadow: 1px 1px 7px 5px rgba(248, 248, 246, 0.5);
     margin-bottom: 1.5rem;
