@@ -80,8 +80,8 @@ function handlesubmit(e){
                 <div className='space'></div>
                     <h1>ME &#x1F464; &#x1F574;</h1>
                     <p>Welcome &#x1F44B; &#x1F64B;, I'm thrilled to have the opportunity to
-                         introduce myself. My colleagues do call me S A, Steadman, STD 😀.  As a full-stack developer with a strong background 
-                         in JavaScript, Python, C++,PHP . With over 7 years of experience in 
+                         introduce myself. My colleagues do call me S A, Steadman, STD 😀.  I'm a full-stack developer with a strong background 
+                         in JavaScript, Python, C++,PHP and many more . With over 7+ years of experience in 
                          the programming industry &#x1F4BB; &#x2328;, I am passionate about creating exceptional 
                          software solutions for Web, Mobile, Desktop and backend system that drive
                           innovation and meet the unique needs of businesses.</p>
@@ -208,7 +208,7 @@ such as React Native, Flutter. This allows me to develop cross-platform mobile a
                 <div className='space'></div>
                 <h1>SKILL &#x1F393;&#x1F393;</h1>
                     <p>
-                    As a seasoned full-stack developer with 7 years of experience, I have acquired a 
+                    As a seasoned full-stack developer with 7+ years of experience, I have acquired a 
                     diverse range of skills and expertise. My proficiency 
                     extends across various programming languages, frameworks, databases, and 
                     development tools. Here are some of the key skills that I possess:
