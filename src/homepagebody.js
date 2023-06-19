@@ -80,7 +80,7 @@ function handlesubmit(e){
                 <div className='space'></div>
                     <h1>ME &#x1F464; &#x1F574;</h1>
                     <p>Welcome &#x1F44B; &#x1F64B;, I'm thrilled to have the opportunity to
-                         introduce myself. My colleagues do call me S A, Steadman, STD 😀.  I'm a full-stack developer with a strong background 
+                         introduce myself. My colleagues do call me S A, Steadman, STD<small>(jokes)</small> 😀.  I'm a full-stack developer with a strong background 
                          in JavaScript, Python, C++,PHP and many more . With over 7+ years of experience in 
                          the programming industry &#x1F4BB; &#x2328;, I am passionate about creating exceptional 
                          software solutions for Web, Mobile, Desktop and backend system that drive
